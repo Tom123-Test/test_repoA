@@ -3,6 +3,7 @@ pipeline {
   stages {
     stage('检11111111111') {
       steps {
+        sleep 30
         echo '接口测试中...'
         echo '接口测试完成.'
       }
@@ -26,7 +27,7 @@ pipeline {
             branch 'test'
           }
           steps {
-            //sleep 30
+            sleep 30
             echo 'run master.......'
             //git 'https://github.com/linzhongli-0419/test_repo1p（此repo不存在）'
           }
