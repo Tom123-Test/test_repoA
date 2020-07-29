@@ -3,6 +3,7 @@ pipeline {
   stages {
     stage('检11111111111') {
       steps {
+        sleep 40
         echo '接口测试中...'
         echo '接口测试完成.'
       }
