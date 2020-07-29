@@ -1,3 +1,5 @@
+东方红卡绝代风华卡机回复的空间啊哈点击开发肯德基发
+
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.nio.ByteBuffer;
